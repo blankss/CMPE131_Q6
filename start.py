@@ -1,1 +1,2 @@
-owiefnoiw
+def main():
+    print("this is python!")
